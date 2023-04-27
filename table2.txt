@@ -1,0 +1,46 @@
+<body src="C:\Users\Admin\Desktop\nature2.jpg">
+<table style="background-color:gold"border="5" >
+
+<tr height="5" columns="5">
+<th width="2000" rows="5">
+<marquee dir="rtl">
+<img  width="1500" height="250" src="C:\Users\Admin\Desktop\nature2.jpg"></rtl>
+</img>
+</th>
+</tr>
+</table>
+</body>
+
+<br>
+<table style="background-color:gold"border="5" >
+
+<tr height="100" columns="10">
+<th width="1500" rows="10">
+<h1><a href="https://www.youtube.com/watch?v=rYH1He-gI3E">Hey...Click Me to go New Window</a><h1>
+<h2><marquee dir="ltr">HTML HERE......Hypertext Markup Language</marquee></h2>
+</th>
+</tr>
+</table>
+</body>
+<br>
+<table style="background-color:gold"border="5" >
+
+<tr height="100" columns="10">
+<th width="1500" rows="10">
+<h1><marquee dir="ltr"><font style="color:red">Hello.....,Welcome to My World....I AM VERY HAPPY</marquee></h1>
+<h2><marquee dir="ltr">HTML HERE......Hypertext Markup Language</marquee></h2>
+</th>
+</tr>
+</table>
+</body>
+<br>
+<table style="background-color:gold"border="5" >
+
+<tr height="100" columns="10">
+<th width="1500" rows="10">
+<h1><marquee dir="ltr"><font style="color:red">Hello.....,Welcome to My World....I AM VERY HAPPY</marquee></h1>
+<h2><marquee dir="ltr">HTML HERE......Hypertext Markup Language</marquee></h2>
+</th>
+</tr>
+</table>
+</body>
